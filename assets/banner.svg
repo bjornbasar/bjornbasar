@@ -1,6 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="971" height="256" viewBox="0 0 971 256" role="img" aria-label="bjornbasar">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#D4A017"/>
+      <stop offset="100%" stop-color="#B8860B"/>
+    </linearGradient>
+  </defs>
   <rect width="971" height="256" rx="10" fill="#0d1117"/>
-  <text x="16" y="29" xml:space="preserve" font-family="'DejaVu Sans Mono','Courier New',monospace" font-size="13" fill="#D4A017">
+  <text x="16" y="29" xml:space="preserve" font-family="'DejaVu Sans Mono','Courier New',monospace" font-size="13" fill="url(#gold)">
     <tspan x="16" dy="0">      ..                                                         ..                   .x+=:.                            </tspan>
     <tspan x="16" dy="14.95">. uW8"         ..                                          . uW8"                    z`    ^%                           </tspan>
     <tspan x="16" dy="14.95">`t888         888&gt;         u.      .u    .      u.    u.   `t888                        .   &lt;k                .u    .   </tspan>
