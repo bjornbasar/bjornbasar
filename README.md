@@ -4,7 +4,7 @@
 
 ### Bjorn Basar
 
-*Full-stack developer with a homelab habit — small, dependency-light tools, run on my own iron.*
+*Full-stack developer who minifies the complex — turning tangled, manual work into small, semi-automated tools that just run, on my own iron.*
 
 [![Website](https://img.shields.io/badge/basar.co.nz-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.basar.co.nz)
 [![minified.work](https://img.shields.io/badge/minified.work-4285F4?style=flat-square&logo=google&logoColor=white&cacheSeconds=86400)](https://www.minified.work)
