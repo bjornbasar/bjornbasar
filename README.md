@@ -86,8 +86,8 @@ const bjorn = {
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjornbasar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/bjornbasar)
-[![Stats](https://github-readme-stats.vercel.app/api?username=bjornbasar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/bjornbasar)
+[![Top Langs](https://gh-stats.minified.work/api/top-langs/?username=bjornbasar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/bjornbasar)
+[![Stats](https://gh-stats.minified.work/api?username=bjornbasar&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/bjornbasar)
 
 ![Streak](https://streak-stats.demolab.com/?user=bjornbasar&theme=tokyonight&hide_border=true&background=0d1117)
 
