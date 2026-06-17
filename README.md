@@ -4,11 +4,10 @@
 
 *Full-stack developer with a homelab habit — small, dependency-light tools, run on my own iron.*
 
-[![Website](https://img.shields.io/badge/basar.co.nz-1a1a1a?style=flat-square&logo=hugo&logoColor=white)](https://www.basar.co.nz)
-[![minified.work](https://img.shields.io/badge/minified.work-4b3f72?style=flat-square&logo=icloud&logoColor=white)](https://www.minified.work)
-[![LinkedIn](https://img.shields.io/badge/in/bjornbasar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bjornbasar)
-[![GitHub followers](https://img.shields.io/github/followers/bjornbasar?style=flat-square&label=followers&color=555)](https://github.com/bjornbasar)
-![Location](https://img.shields.io/badge/📍_New_Zealand-UTC+12:00-blue?style=flat-square)
+[![Website](https://img.shields.io/badge/basar.co.nz-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.basar.co.nz)
+[![minified.work](https://img.shields.io/badge/minified.work-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.minified.work)
+[![LinkedIn](https://img.shields.io/badge/in%2Fbjornbasar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bjornbasar)
+![Location](https://img.shields.io/badge/New_Zealand-UTC%2B12%3A00-blue?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -100,8 +99,8 @@ const bjorn = {
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/www.basar.co.nz-1a1a1a?style=for-the-badge&logo=hugo&logoColor=white)](https://www.basar.co.nz)
-[![minified.work](https://img.shields.io/badge/www.minified.work-4b3f72?style=for-the-badge&logo=icloud&logoColor=white)](https://www.minified.work)
+[![Website](https://img.shields.io/badge/www.basar.co.nz-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.basar.co.nz)
+[![minified.work](https://img.shields.io/badge/www.minified.work-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.minified.work)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bjornbasar)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bjornbasar)
