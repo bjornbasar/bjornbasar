@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="bjornbasar" width="760">
+<img src="assets/banner.svg?v=f45c59f" alt="bjornbasar" width="760">
 
 ### Bjorn Basar
 
