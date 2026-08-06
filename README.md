@@ -6,8 +6,8 @@
 
 *Full-stack developer who minifies complexity — manual, tangled work becomes small, semi-automated tools that just run.*
 
-[![Website](https://img.shields.io/badge/basar.co.nz-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.basar.co.nz)
-[![minified.work](https://img.shields.io/badge/minified.work-4285F4?style=flat-square&logo=google&logoColor=white&cacheSeconds=86400)](https://www.minified.work)
+[![Portfolio](https://img.shields.io/badge/bjorn.basar.co.nz-8D2414?style=flat-square)](https://bjorn.basar.co.nz)
+[![minified.work](https://img.shields.io/badge/minified.work-0D9488?style=flat-square&cacheSeconds=86400)](https://www.minified.work)
 [![LinkedIn](https://img.shields.io/badge/in%2Fbjornbasar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bjornbasar)
 ![Location](https://img.shields.io/badge/New_Zealand-UTC%2B12%3A00-blue?style=flat-square&logo=googlemaps&logoColor=white)
 
@@ -101,8 +101,8 @@ const bjorn = {
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/www.basar.co.nz-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.basar.co.nz)
-[![minified.work](https://img.shields.io/badge/www.minified.work-4285F4?style=for-the-badge&logo=google&logoColor=white&cacheSeconds=86400)](https://www.minified.work)
+[![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.basar.co.nz)
+[![minified.work](https://img.shields.io/badge/www.minified.work-0D9488?style=for-the-badge&cacheSeconds=86400)](https://www.minified.work)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bjornbasar)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bjornbasar)
