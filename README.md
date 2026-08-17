@@ -88,8 +88,14 @@ const bjorn = {
 
 <div align="center">
 
+<!-- The Stats card (/api) was removed 2026-08-17. It renders private-repo stargazer counts, and
+     GitHub began refusing `user.repositories.nodes[].stargazers` to fine-grained tokens on
+     2026-08-15 (FORBIDDEN, "Resource not accessible by personal access token") — so it served a
+     754-byte "Something went wrong!" card publicly for two days. The only fix is a CLASSIC token
+     with `repo` scope, i.e. full read+WRITE on every private repository, to decorate a profile.
+     Not worth it. Top Langs below reads languages rather than stargazers and is unaffected,
+     private repos included, on the same fine-grained token. -->
 [![Top Langs](https://gh-stats.bjornbasar.com/api/top-langs/?username=bjornbasar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/bjornbasar)
-[![Stats](https://gh-stats.bjornbasar.com/api?username=bjornbasar&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/bjornbasar)
 
 ![Streak](https://streak-stats.demolab.com/?user=bjornbasar&theme=tokyonight&hide_border=true&background=0d1117)
 
